@@ -1,0 +1,4 @@
+{
+    "image": "mtsygankov/x5-tf:final",
+    "entry_point": "/bin/run_docker.sh"
+}
